@@ -1,0 +1,16 @@
+﻿dest_num,dest_name,feedback_score,ave_hotel_rating,num_all_incl_hotels,most_visited_city
+1,England,4,5,41,London
+2,France,7,4,29,Paris
+3,US,7,5,41,New York
+4,China,9,1,46,Hong Kong
+5,Japan,7,2,18,Tokyo
+6,Spain,8,3,25,Barcelona
+7,Norway,7,5,23,Oslo
+8,Singapore,3,1,47,Singapore
+9,Thailand,7,2,56,Bangkok
+10,India,5,4,65,New Deli
+11,Australia ,8,2,100,Sydney
+12,South Africa,9,5,17,Johannesburg
+13,French Polynesia,2,2,67,Bora Bora
+14,Hawaii,3,4,49,Maui
+15,Italy,5,2,44,Rome
