@@ -1,0 +1,16 @@
+Explain why you have decided on the design choices, what influenced your decisions and what insights have you found from the data.
+
+
+The dataset which I chose had dumby data on traveller's reasons for travel from different countries. 
+
+I decided on using data from one country, North America, and chose to show the reasons for travelling with a time series (annual quarters)
+
+The reason why I chose to use these variables was to explore if North American traveller's reasons for travel differed over the year, and potentially why.
+
+I found that the most North American travellers travelled for holidays and inclusive tours (I made the assumption that this was a type of holiday)
+
+Additionally, people also travelled quite a bit for work. However, in quarter 3 of 2017 and 2019, this decreased while there was an increase in those travelling for holiday and inclusive tours.
+
+I made the assumption that this may be because quarter 3 includes the months of July, August and September, which are summer months, when people are most likely to go on/ take holiday. 
+
+In 2017 however, this was not the case, and I was unable to suggest a reason for this. 
